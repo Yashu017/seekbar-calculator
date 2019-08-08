@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">second</string>
+    <string name="tip_percentage" />
+    <string name="tip_perc">tip percentage</string>
+    <string name="calc_button">calc</string>
+    <string name="enter_bill">Enter your Bill</string>
+    <string name="result_id">result</string>
+    <string name="tax_id">tax on bill</string>
+</resources>
